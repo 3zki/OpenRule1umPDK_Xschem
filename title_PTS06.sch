@@ -34,13 +34,13 @@ T {**) No Pcells in klayout} 1200 -40 0 0 0.5 0.5 {}
 T {**pts_np.sym} 720 -680 0 0 0.4 0.4 {}
 C {devices/title.sym} 160 -30 0 0 {name=l1 author="MakeLSI & ISHI-kai"}
 C {primitives/nfet.sym} 100 -430 0 0 {name=M2
-model=nchorex1
+model=nchor1ex
 W=1u
 L=1u
 m=1
 }
 C {primitives/pfet.sym} 100 -590 0 0 {name=M1 
-model=pchorex1
+model=pchor1ex
 W=2u
 L=1u
 m=1
